@@ -1,0 +1,1 @@
+A front-end clone of YouTube built using HTML&CSS to practice core concepts of web development. Key points- Implemented CSS Grid for structured layouts and responsive design. Used z-index for stacking element order and opacity for transparency effects. Focused on replicating design & layout while improving skills in HTML/CSS front-end development.
